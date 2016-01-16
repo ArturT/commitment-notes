@@ -13,6 +13,7 @@ http://commitment-thebook.com/
   https://en.wikipedia.org/wiki/Tulip_mania
 
 * Two parties entering into the option:
+
   * the buyer of the option (She pays a premium for the option. Expiry of the option is specified in the options contract.)
   * the seller of the option who takes on a commitment
 
@@ -37,13 +38,16 @@ Example:
 ### Real options
 
 * Options have value
+
   * value of the benefit received (intrinsic value)
   * being able to choose later is valueable (it's more valueable when there is more uncertainty)
 
 * Options expire
+
   * Keep track under what condition and option is no longer available.
 
 * Never commit early unless you know why
+
   * Commitment is when you decided to do something.
   * Making commitment destroys options to realize some value.
   * It's important to understand why you destroy one thing to create another.
@@ -56,3 +60,30 @@ Example of real options:
 * phoning a friend
 * finding a new job
 * travelling somewhere
+
+## Relationships and knowledge options
+
+* Relationships are one of the most valueable options
+
+* Knowledge options
+
+  * Learn about a subject to understand:
+
+    * what can be done with the tools
+    * how long it will take to learn the tools so you can apply them
+    * find a mentor for a subject
+
+    |-----------------------------|---------------------------|
+    | 2. conscious incompetence   | 3. conscious competence   |
+    |-----------------------------|---------------------------|
+    | 1. unconscious incompetence | 4. unconscious competence |
+    |-----------------------------|---------------------------|
+
+  * Be (2) consciously incompetence about a subject:
+
+    * you should know how long it takes to become (3) consciously competence
+
+      * if it takes long time to learn and subject is useful then learn it early
+      * if it takes short time to learn the subject then learning commitment can be later.
+
+
