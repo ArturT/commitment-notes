@@ -73,11 +73,9 @@ Example of real options:
     * how long it will take to learn the tools so you can apply them
     * find a mentor for a subject
 
-    |-----------------------------|---------------------------|
     | 2. conscious incompetence   | 3. conscious competence   |
     |-----------------------------|---------------------------|
     | 1. unconscious incompetence | 4. unconscious competence |
-    |-----------------------------|---------------------------|
 
   * Be (2) consciously incompetence about a subject:
 
