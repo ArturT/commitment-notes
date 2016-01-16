@@ -289,7 +289,7 @@ Rather than have total uncertainty we have to create bounded or condition uncert
 https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model
 
 * Black Scholes model works well in Financial Market.
-* In the real world liquidity dominates the quation.
+* In the real world liquidity dominates the equation.
 * In context of real options the Black Scholes model is invalid.
   * For instance bottle of water could be worthless or worth a person's life depending on context.
 
