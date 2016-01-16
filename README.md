@@ -123,3 +123,39 @@ Example of real options:
   * One of the most important things is to identify dependencies on the project
     * Find a way to break dependencies between tasks
 
+## Visualisation Boards
+
+https://en.wikipedia.org/wiki/Kanban
+
+https://en.wikipedia.org/wiki/Lean_software_development
+
+    https://en.wikipedia.org/wiki/Kanban_(development)
+
+## Feature Injection
+
+Move toward the outcome until you encounter value.
+
+* Hunt the value
+* Inject the feature
+* Break the model
+
+### Ways of generating value:
+
+* increasing revenue
+* protecting revenue
+* reducing costs
+* avoiding costs
+
+### Options to generate revenue
+
+* Network
+  * social networks are more valueable if they have more users or a bigger network
+  * telephones
+
+* Usage
+  * more users use the service then more likely they will generate revenue
+
+* Value in numbers
+  * graph of the trend
+
+Think about context and where the value could be. Where the value is coming from?
