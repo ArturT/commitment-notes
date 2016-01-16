@@ -288,3 +288,25 @@ https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model
 * In the real world liquidity dominates the quation.
 * In context of real options the Black Scholes model is invalid.
   * For instance bottle of water could be worthless or worth a person's life depending on context.
+
+## Scenario planning
+
+Scenario planning is an another expression of real options.
+
+It was popularised by Peter Senge's book:
+
+https://en.wikipedia.org/wiki/The_Fifth_Discipline
+
+### Preparing for the possible
+
+* Scenarios have the effect that the organisation start communicating and collaborating in ways that it had not seen before.
+
+* The creation of risk management scenarios has immediate positive benefits beyond just being better prepared for a possible future.
+
+### Scaling scenario thinking
+
+Scenario Analysis or risk management can be applied at any scale. From individual, up to the corporation and the global scale.
+
+### Increase your odds in the future
+
+Prepare for the multiple possible futures and have your options for each in place.
