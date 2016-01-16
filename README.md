@@ -129,7 +129,7 @@ https://en.wikipedia.org/wiki/Kanban
 
 https://en.wikipedia.org/wiki/Lean_software_development
 
-    https://en.wikipedia.org/wiki/Kanban_(development)
+https://en.wikipedia.org/wiki/Kanban_(development)
 
 ## Feature Injection
 
