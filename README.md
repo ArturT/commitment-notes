@@ -84,4 +84,42 @@ Example of real options:
       * if it takes long time to learn and subject is useful then learn it early
       * if it takes short time to learn the subject then learning commitment can be later.
 
+## 3 things you need to know on your project
+
+### Where you are going
+
+  * Use real options to handle uncertainty
+  * Avoid committing too early
+
+3 approaches:
+
+* postpone the commitment and collect more information
+* choose the option that is easiest to change
+* invest in a different approach that allows change to be easier
+  * For instance use repository pattern which delayes the commitment what data store you will use
+
+### Where you are
+
+  * Task statuses:
+
+    * not started
+    * work in progress
+    * done
+
+  * It's more important the team knows the status of the project than the management
+
+  * Team can co-ordinate their activity
+
+### How to get between the two as quickly as possible
+
+  * Focus on time rather than cost
+  * Leave developers and testers with their tasks
+  * Focus on blocked items.
+  * Focus on queues or waiting states.
+  * Ensure people are working on one item at a time
+    * People working on multile tasks means you have hidden queues
+    * Task switching is ineffective - it's signal that things are blocked but not reported
+  * Technical debt can speed up development (more about paying it later)
+  * One of the most important things is to identify dependencies on the project
+    * Find a way to break dependencies between tasks
 
