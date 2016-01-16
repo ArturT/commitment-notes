@@ -119,7 +119,11 @@ Example of real options:
   * Ensure people are working on one item at a time
     * People working on multile tasks means you have hidden queues
     * Task switching is ineffective - it's signal that things are blocked but not reported
-  * Technical debt can speed up development (more about paying it later)
+  * Technical debt can speed up development
+    * Technical debt is like a dirty kitchen. You cannot find anything and you have to clean up before you start real work.
+    * Paying down technical debt (refactoring) is the equivalent of cleaning the kitchen.
+    * Technical debt is not debt. It's not a fixed cost. It's a sold option.
+      * The more valuable and urgent requirement the more the "sold option" costs you.
   * One of the most important things is to identify dependencies on the project
     * Find a way to break dependencies between tasks
 
