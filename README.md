@@ -159,3 +159,38 @@ Move toward the outcome until you encounter value.
   * graph of the trend
 
 Think about context and where the value could be. Where the value is coming from?
+
+## Staff liquidity
+
+* value in shorter iterations of development
+  * short iterations provide more options which means more ways to control the project and manage the risks
+
+* Low liquidity means it's hard to move staff around on projects
+
+* High liquidity means it's easy to to scale project up and down and do it quickly
+
+* Staff liquidity is the time needed to:
+  * Approve and hire people
+  * Gel the team
+  * Train the team
+
+### How to achieve high staff liquidity
+
+* No key man dependencies on a project
+  * be aware about key man dependencies
+  * https://en.wikipedia.org/wiki/Bus_factor
+  * ensure the organisation has more than one or two people who can perform each function within the organisation or group
+  * grades people for each function
+    * levels:
+      * 1 - can perform basic of the function
+      * 2 - can perform the function adequately
+      * 3 - the function has no secrets to them
+    * function with 3 or more people at level 3 is safe (Green)
+    * function with 2 people at level 3 is at risk (Yellow)
+    * function with 1 or no people at level 3 is risk (Red)
+  * functions that take longer to train are riskier than those that can be taught quickly
+  * assess the risk on a regular basis and track the changes
+
+* Allocate people with the fewest options first, people with most options last
+
+* Let people with most options coach and help the people with the least options
