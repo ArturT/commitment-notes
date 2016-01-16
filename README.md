@@ -314,3 +314,13 @@ Scenario Analysis or risk management can be applied at any scale. From individua
 ### Increase your odds in the future
 
 Prepare for the multiple possible futures and have your options for each in place.
+
+### Other notes
+
+* Approach to risk management is to consider the possible scenarios and build an option for each.
+
+* For each scenario work out how long the business can survive.
+
+* Work out how long it takes to fix the scenario
+  * You cannot know how long it takes to fix in advance
+    * for instance rollback as a solution
