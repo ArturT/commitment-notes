@@ -235,7 +235,7 @@ https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
 
 ### Real Options
 
-People preferences in this order:
+People preferences are in this order:
 
 * Being right
 * Being wrong
